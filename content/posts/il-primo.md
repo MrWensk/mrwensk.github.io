@@ -15,5 +15,5 @@ I’m Byron, a very energetic guy with an insatiable curiosity. I’m friendly, 
 
 My brother is teaching me how to use this thing called HUGO—a tool to help you create static websites in HTML using minimal coding knowledge. I’m excited about this project, as I have been thinking about getting an online portfolio for a couple of months already, but I do not want or feel motivated to use a visual interface web builder like a couple of famous ones out there because, in my personal experience, they tend to get a little bit too slow and frustrating with the services they want you to buy. And here I am, flexing my brain to try to place a visual theme and two posts like this one—a very exciting plot for a spaghetti western if you ask me. 🤣
 
-There’s going to be more of this amazing adventures in the second part of this post, coming up very soon on this same web page, at all times, from anywhere you have an electronic device with access to the internet and a web browsing feature. See ya next post, bye! 👋🏼
+There’s going to be more of these amazing adventures in the second part of this post, coming up very soon on this same web page, at all times, from anywhere you have an electronic device with access to the internet and a web browsing feature. See ya next post, bye! 👋🏼
 
