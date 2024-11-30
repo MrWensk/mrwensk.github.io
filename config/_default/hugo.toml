@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Welcome to my blog/professional portfolio.'
-theme = 'mini'
+theme = 'PaperMod'
